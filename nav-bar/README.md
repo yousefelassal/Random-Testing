@@ -7,3 +7,6 @@
 <img src="https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Finteractive-guide-to-flexbox%2Fmargin.png&w=828&q=75" width="500px" height="auto">
 <p>There are lots of other ways we could have solved this problem: we could have grouped the navigation links in their own Flex container, or we could have grown the first list item with `flex-grow`. But personally, I love the auto-margins solution. We're treating the extra space as a resource, and deciding exactly where it should go.<p>
 </div>
+
+<h2>Outcome:</h2>
+<div align="center"><img src="https://github.com/yousefelassal/Random-Testing/blob/main/nav-bar/nav%20bar.PNG?raw=true"></div>
