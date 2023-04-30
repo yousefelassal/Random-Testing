@@ -6,4 +6,5 @@
 <li><a href="https://github.com/yousefelassal/Random-Testing/tree/main/flex-layout">Flex Layout (Google)</a></li>
 <li><a href="https://github.com/yousefelassal/Random-Testing/tree/main/flex-layout-2">Flex Layout (Holy Grail)</a></li>
 <li><a href="https://github.com/yousefelassal/Random-Testing/tree/main/nav-bar">Nav bar (Auto Margin)</a></li>
+<li><a href="https://github.com/yousefelassal/rellax-testing">Parallax Effect (Rellax)</a></li>
 </ul>
